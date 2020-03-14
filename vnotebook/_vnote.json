@@ -1,0 +1,22 @@
+{
+    "attachment_folder": "_v_attachments",
+    "created_time": "2020-03-14T00:51:04Z",
+    "files": [
+    ],
+    "image_folder": "",
+    "recycle_bin_folder": "_v_recycle_bin",
+    "sub_directories": [
+        {
+            "name": "日常"
+        },
+        {
+            "name": "使用指南"
+        },
+        {
+            "name": "代码"
+        }
+    ],
+    "tags": [
+    ],
+    "version": "1"
+}
